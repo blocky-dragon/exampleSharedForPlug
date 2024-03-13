@@ -20,6 +20,10 @@ Collapsed State:
       type: bool
       value: false
       options: 0
+    Gold.mat:
+      type: bool
+      value: false
+      options: 0
     MaterialParams.png:
       type: bool
       value: true
@@ -59,5 +63,9 @@ Collapsed State:
     pixelization.ss_graph:
       type: bool
       value: true
+      options: 0
+    uber_spec.ss_graph:
+      type: bool
+      value: false
       options: 0
   options: 4
