@@ -13,6 +13,10 @@ Collapsed State:
       type: bool
       value: false
       options: 0
+    3c0d81dc-cb17-4450-9427-768384ea3e6f:
+      type: bool
+      value: true
+      options: 0
     3e7c2195-4744-4350-8fbf-f15a3dd72ded:
       type: bool
       value: false

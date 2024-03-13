@@ -11,6 +11,7 @@
     - !<own> cde6cb09-43b5-4680-b2ea-ecbb16fb38e3
     - !<own> c0dfa04f-8622-4d8d-a36b-0ab5e7a190f4
     - !<own> 43f550be-c314-4dda-b62c-f6e0cdf72b72
+    - !<own> 3c0d81dc-cb17-4450-9427-768384ea3e6f
   PackagePath: ""
 - !<SceneObject/04833dc7-4974-4ce0-a235-1053367cad8e>
   Name: Light
@@ -66,6 +67,20 @@
     []
   Components:
     - !<own> 60d75264-5511-4fdf-ae9b-cb4a70b91c54
+  PrefabRemaps:
+    []
+- !<SceneObject/3c0d81dc-cb17-4450-9427-768384ea3e6f>
+  Name: Object 1
+  Enabled: true
+  Layer: 0
+  LocalTransform:
+    position: {x: 0, y: 0, z: 0}
+    rotation: {x: 0, y: 0, z: 0}
+    scale: {x: 1, y: 1, z: 1}
+  Children:
+    []
+  Components:
+    []
   PrefabRemaps:
     []
 - !<SceneObject/3e7c2195-4744-4350-8fbf-f15a3dd72ded>
