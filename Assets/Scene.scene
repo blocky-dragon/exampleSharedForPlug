@@ -367,7 +367,7 @@
     []
 - !<SceneObject/c0dfa04f-8622-4d8d-a36b-0ab5e7a190f4>
   Name: Pixelization
-  Enabled: true
+  Enabled: false
   Layer: 0
   LocalTransform:
     position: {x: 0, y: 0, z: 0}

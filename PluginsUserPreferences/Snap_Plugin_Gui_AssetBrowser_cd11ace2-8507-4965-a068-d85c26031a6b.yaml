@@ -68,6 +68,10 @@ Collapsed State:
       type: bool
       value: true
       options: 0
+    Untitled.js:
+      type: bool
+      value: true
+      options: 0
     flat.ss_graph:
       type: bool
       value: false
