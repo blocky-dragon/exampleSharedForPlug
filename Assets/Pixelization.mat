@@ -16,13 +16,15 @@
   Defines:
     []
   BlendMode: Disabled
+  RTCaster: false
+  RTReceiver: false
   Properties:
     PreviewEnabled:
       typeIdx: 0
       value: 0
     pixelOffset:
       typeIdx: 1
-      value: 96.74
+      value: 96.73999786376953
     screenTexture:
       typeIdx: 9
       value:

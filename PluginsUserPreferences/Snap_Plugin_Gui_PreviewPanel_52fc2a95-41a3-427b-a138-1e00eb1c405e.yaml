@@ -7,7 +7,7 @@ cameraType:
   value: 0
   options: 4
 customSources:
-  type: "std::vector<Es::Path>"
+  type: "std::vector<class Es::Path,class std::allocator<class Es::Path> >"
   value:
     size: 0
   options: 4
@@ -18,6 +18,14 @@ frameRate:
 frontCameraMultimedia:
   type: string
   value: /Applications/Lens Studio.app/Contents/MacOS/../Resources/PreviewResources.bundle/Video/Idle/Idle.mp4
+  options: 4
+lastPosition:
+  type: vec3
+  value: {x: 0, y: 0, z: 0}
+  options: 4
+lastRotation:
+  type: vec3
+  value: {x: 0, y: 0, z: 0}
   options: 4
 mirrorHorizontally:
   type: bool

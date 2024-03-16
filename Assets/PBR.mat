@@ -18,6 +18,8 @@
     - ENABLE_NORMALMAP
     - ENABLE_LIGHTING
   BlendMode: Disabled
+  RTCaster: false
+  RTReceiver: false
   Properties:
     Port_Center_N016:
       typeIdx: 3

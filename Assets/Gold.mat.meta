@@ -4,5 +4,8 @@
   ImporterName: MaterialImporter
   PrimaryAsset: !<reference> cfad167b-4a59-439a-a888-03b920b04f02
   PackageType: CannotBeUnpacked
-  AssetDataMap: {}
-  ImporterSettings: !<AssetImporterSettings/0cf0a624-35f2-4b3f-820f-b185470dc5be> {}
+  AssetDataMap:
+    {}
+  ImporterSettings: !<AssetImporterSettings/0cf0a624-35f2-4b3f-820f-b185470dc5be>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000

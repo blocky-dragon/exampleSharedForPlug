@@ -24,6 +24,18 @@ Collapsed State:
       type: bool
       value: false
       options: 0
+    Image 1.mat:
+      type: bool
+      value: true
+      options: 0
+    Image.mat:
+      type: bool
+      value: false
+      options: 0
+    Image.png:
+      type: bool
+      value: false
+      options: 0
     MaterialParams.png:
       type: bool
       value: true
@@ -55,6 +67,10 @@ Collapsed State:
     Sphere.mesh:
       type: bool
       value: true
+      options: 0
+    flat.ss_graph:
+      type: bool
+      value: false
       options: 0
     pbr.ss_graph:
       type: bool

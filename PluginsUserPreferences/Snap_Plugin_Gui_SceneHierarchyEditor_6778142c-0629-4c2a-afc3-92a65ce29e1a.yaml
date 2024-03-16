@@ -1,11 +1,15 @@
 PinnedEntities:
-  type: "std::vector<Es::Uuid>"
+  type: "std::vector<class Es::Uuid,class std::allocator<class Es::Uuid> >"
   value:
     size: 0
   options: 4
 Collapsed State:
   group:
     04833dc7-4974-4ce0-a235-1053367cad8e:
+      type: bool
+      value: false
+      options: 0
+    081fb779-8fb2-4e29-b0db-fea5fb907314:
       type: bool
       value: false
       options: 0
@@ -24,6 +28,10 @@ Collapsed State:
     43f550be-c314-4dda-b62c-f6e0cdf72b72:
       type: bool
       value: true
+      options: 0
+    634d7185-3103-4fbe-856b-aa1ae710403e:
+      type: bool
+      value: false
       options: 0
     9489cf78-29e5-455c-819a-704d07bfcd6a:
       type: bool
@@ -52,5 +60,9 @@ Collapsed State:
     cde6cb09-43b5-4680-b2ea-ecbb16fb38e3:
       type: bool
       value: false
+      options: 0
+    fa6bbcfa-a025-4bdc-adc9-3c64d2f0aa36:
+      type: bool
+      value: true
       options: 0
   options: 4
