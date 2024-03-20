@@ -1,0 +1,11 @@
+- !<AssetImportMetadata/3ff7741b-c4e0-40df-b2e7-aef14879a7b6>
+  ImportedAssetIds:
+    ScriptGraph: 031e5e91-f8b3-4a88-ae08-7de18aefec34
+  ImporterName: ScriptGraphAssetImporter
+  PrimaryAsset: !<reference> 031e5e91-f8b3-4a88-ae08-7de18aefec34
+  PackageType: CannotBeUnpacked
+  AssetDataMap:
+    {}
+  ImporterSettings: !<GraphImporterSettings/127c48c2-5f38-488b-b78d-8a7bb88ccfa3>
+    NGSSystemHash: c60f6c2314e00668c07fa0a28eeb1f12
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000

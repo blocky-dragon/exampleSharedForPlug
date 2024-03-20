@@ -1,0 +1,95 @@
+- !<AssetImportMetadata/dfe98687-7f8b-457a-a2ae-20d9ab362ea3>
+  ImportedAssetIds:
+    JavaScriptAsset: f487f048-3ea9-4aa6-a366-ae772f3aea53
+  ImporterName: JavaScriptAssetImporter
+  PrimaryAsset: !<reference> f487f048-3ea9-4aa6-a366-ae772f3aea53
+  PackageType: CannotBeUnpacked
+  AssetDataMap:
+    JavaScriptAsset: !<own> ac882dc9-04b9-4c61-a9fc-1a92898a4be9
+  ImporterSettings: !<AssetImporterSettings/7d4e68c1-62af-46f7-a774-3bf291f27aef>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<ScriptAssetData/ac882dc9-04b9-4c61-a9fc-1a92898a4be9>
+  SvgIcon: ""
+  Description: ""
+  InternalVersion: 0
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: 00000000-0000-0000-0000-000000000000
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  CurrentVisibility: Editable
+  MaxVisibility: Editable
+  ScriptInputsHidden:
+    callbackType: false
+    dataType: false
+    delay: false
+    easingFunction: false
+    easingType: false
+    endFloat: false
+    endInt: false
+    endRGB: false
+    endRGBA: false
+    endVector2: false
+    endVector3: false
+    endVector4: false
+    funcName: false
+    funcTargetScript: false
+    loopType: false
+    material: false
+    materialMeshVisual: false
+    materialScriptName: false
+    playAutomatically: false
+    propName: false
+    propTargetScript: false
+    startFloat: false
+    startInt: false
+    startRGB: false
+    startRGBA: false
+    startVector2: false
+    startVector3: false
+    startVector4: false
+    time: false
+    tweenName: false
+    vfxAsset: false
+    vfxComponent: false
+    vfxScriptName: false
+  ScriptTypesHidden:
+    {}
+  DefaultScriptInputs:
+    - tweenName: ""
+      playAutomatically: true
+      loopType: 0
+      dataType: 0
+      startInt: 0
+      endInt: 1
+      startFloat: !<float> 0
+      endFloat: !<float> 1
+      startVector2: !<Vec2> {x: 0, y: 0}
+      endVector2: !<Vec2> {x: 1, y: 1}
+      startVector3: !<Vec3> {x: 0, y: 0, z: 0}
+      endVector3: !<Vec3> {x: 1, y: 1, z: 1}
+      startVector4: !<Vec4> {x: 0, y: 0, z: 0, w: 0}
+      endVector4: !<Vec4> {x: 1, y: 1, z: 1, w: 1}
+      startRGB: !<Vec3> {x: 0, y: 0, z: 0}
+      endRGB: !<Vec3> {x: 1, y: 1, z: 1}
+      startRGBA: !<Vec4> {x: 0, y: 0, z: 0, w: 0}
+      endRGBA: !<Vec4> {x: 1, y: 1, z: 1, w: 1}
+      time: !<float> 1
+      delay: !<float> 0
+      callbackType: 0
+      propTargetScript: !<reference.ScriptComponent> 00000000-0000-0000-0000-000000000000
+      propName: ""
+      funcTargetScript: !<reference.ScriptComponent> 00000000-0000-0000-0000-000000000000
+      funcName: ""
+      materialMeshVisual: !<reference.MaterialMeshVisual> 00000000-0000-0000-0000-000000000000
+      material: !<reference.Material> 00000000-0000-0000-0000-000000000000
+      materialScriptName: baseColor
+      vfxComponent: !<reference.VFXComponent> 00000000-0000-0000-0000-000000000000
+      vfxAsset: !<reference.VFXAsset> 00000000-0000-0000-0000-000000000000
+      vfxScriptName: baseColor
+      easingFunction: Quadratic
+      easingType: Out
+  ScriptTypes:
+    -
+      {}

@@ -68,6 +68,126 @@ Collapsed State:
       type: bool
       value: true
       options: 0
+    TweenManager:
+      type: bool
+      value: true
+      options: 0
+    TweenManager/.hidden:
+      type: bool
+      value: true
+      options: 0
+    TweenManager/.hidden/Image Unlit.ss_graph:
+      type: bool
+      value: true
+      options: 0
+    TweenManager/.hidden/TweenBoxDiffuse.ss_graph:
+      type: bool
+      value: true
+      options: 0
+    TweenManager/Tween:
+      type: bool
+      value: true
+      options: 0
+    "TweenManager/Tween/ExampleResources [REMOVE_ME]":
+      type: bool
+      value: true
+      options: 0
+    "TweenManager/Tween/ExampleResources [REMOVE_ME]/ExampleTweenValueScript.js":
+      type: bool
+      value: true
+      options: 0
+    "TweenManager/Tween/ExampleResources [REMOVE_ME]/Materials":
+      type: bool
+      value: true
+      options: 0
+    "TweenManager/Tween/ExampleResources [REMOVE_ME]/Materials/Image Unlit.mat":
+      type: bool
+      value: true
+      options: 0
+    "TweenManager/Tween/ExampleResources [REMOVE_ME]/Materials/TweenBoxDiffuse.mat":
+      type: bool
+      value: true
+      options: 0
+    "TweenManager/Tween/ExampleResources [REMOVE_ME]/Materials/TweenBoxDiffuse_Alt.mat":
+      type: bool
+      value: true
+      options: 0
+    "TweenManager/Tween/ExampleResources [REMOVE_ME]/Materials/TweenSphereDiffuse.mat":
+      type: bool
+      value: true
+      options: 0
+    "TweenManager/Tween/ExampleResources [REMOVE_ME]/Meshes":
+      type: bool
+      value: true
+      options: 0
+    "TweenManager/Tween/ExampleResources [REMOVE_ME]/Meshes/TweenBox.mesh":
+      type: bool
+      value: true
+      options: 0
+    "TweenManager/Tween/ExampleResources [REMOVE_ME]/Meshes/TweenSphere.mesh":
+      type: bool
+      value: true
+      options: 0
+    "TweenManager/Tween/ExampleResources [REMOVE_ME]/Textures":
+      type: bool
+      value: true
+      options: 0
+    "TweenManager/Tween/ExampleResources [REMOVE_ME]/Textures/TweenImageTextures":
+      type: bool
+      value: true
+      options: 0
+    "TweenManager/Tween/ExampleResources [REMOVE_ME]/Textures/TweenImageTextures/Image.png":
+      type: bool
+      value: true
+      options: 0
+    TweenManager/Tween/Tween.js:
+      type: bool
+      value: true
+      options: 0
+    TweenManager/Tween/TweenManager.js:
+      type: bool
+      value: true
+      options: 0
+    TweenManager/Tween/TweenTypes:
+      type: bool
+      value: true
+      options: 0
+    TweenManager/Tween/TweenTypes/TweenAlpha.js:
+      type: bool
+      value: true
+      options: 0
+    TweenManager/Tween/TweenTypes/TweenChain.js:
+      type: bool
+      value: true
+      options: 0
+    TweenManager/Tween/TweenTypes/TweenColor.js:
+      type: bool
+      value: true
+      options: 0
+    TweenManager/Tween/TweenTypes/TweenScreenTransform.js:
+      type: bool
+      value: true
+      options: 0
+    TweenManager/Tween/TweenTypes/TweenTransform.js:
+      type: bool
+      value: true
+      options: 0
+    TweenManager/Tween/TweenTypes/TweenValue.js:
+      type: bool
+      value: true
+      options: 0
+    TweenManager/Tween/Visual Scripting Custom Nodes:
+      type: bool
+      value: true
+      options: 0
+    TweenManager/Tween/Visual Scripting Custom Nodes/All Tween Nodes.lsscript:
+      type: bool
+      value: true
+      options: 0
+    TweenManager/TweenManager.prefab:
+      type: bool
+      value: true
+      options: 0
     Untitled.js:
       type: bool
       value: true
